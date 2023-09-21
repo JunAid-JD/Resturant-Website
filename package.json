@@ -1,8 +1,8 @@
 {
   "name": "resturant",
   "version": "0.1.0",
+  "homepage": "https://JunAid-JD/Resturant-Website",
   "private": true,
-   "homepage": "https://Muhammad-Junaid-404.github.io/Resturant-App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
